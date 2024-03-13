@@ -11,4 +11,4 @@ export const firebaseConfig = {
   measurementId: 'G-MEASUREMENT_ID'
 };
 
-export const vapidKey = '<YOUR_PUBLIC_VAPID_KEY_HERE>';
+export const vapidKey = 'BLQn9t1dM4q6oPGSDdw32jZ7HKw65RIokLhx07jkmGlKV0y_4IuQlpM1OnE3OK4lbPxquCKe4EBqaMpPho0Hl4k';
